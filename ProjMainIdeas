@@ -11,3 +11,24 @@ BONUS FEATURES:
 * search bar (for authorities to be able to identify drivers
 * connection to google maps
 * posibility for drivers to store routes and plan trips
+
+______________________________________________________________
+______________________________________________________________
+
+        JOB           |       RESPONSIBLE
+______________________|______________________
+______________________|______________________
+Site Arhitecture      |   MIRUNA
+______________________|______________________
+Log in + DB connection|   PAUL
+______________________|______________________
+Graphics Generator    |   ALEX
+______________________|______________________
+XML Reports           |   SANDRA
+______________________|______________________
+Google Maps + Store   |
+info                  |   SEBI
+______________________|______________________
+Search Bar + Different| 
+user experience       |   ANDREEA
+______________________|______________________
